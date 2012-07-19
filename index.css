@@ -1,0 +1,12 @@
+.calendarButton{
+        background: url(Images/Calendar-x.png) no-repeat;
+        width: 80px;
+        height: 40px;
+        margin-left: 140px;
+        margin-bottom: 30px;
+        border: 0;
+}
+.headerPanel {
+	margin-top: 50px;
+
+}
